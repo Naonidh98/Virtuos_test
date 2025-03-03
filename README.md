@@ -122,5 +122,22 @@ module.exports = mongoose.model("Student", studentSchema);
 
 
    --------------
+#Frontend
+Calling from frontend to database
+
+1. Home Page
+![image](https://github.com/user-attachments/assets/2cdb0c65-90f2-422e-a34f-82d3c3d2dfe6)
+
+---
+2. Form Page
+![image](https://github.com/user-attachments/assets/6ee00178-e465-446e-88aa-66d70426b573)
+
+---
+
+3. Result Page
+![image](https://github.com/user-attachments/assets/8872f703-2f1f-42fe-bc72-d4c4d70cab9f)
+
+
+
 
 
